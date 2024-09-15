@@ -1594,38 +1594,6 @@ ol:not([class]) > li:not([class]) {
 /*==================================================================
 6. Sliders / .swiper-container, .swiper-wrapper, .swiper-slide...
 ==================================================================*/
-.view.widget .fg,
-.overlay-window .overlay-view {
-  /**
- * Swiper 3.3.0
- * Most modern mobile touch slider and framework with hardware accelerated transitions
- * 
- * http://www.idangero.us/swiper/
- * 
- * Copyright 2016, Vladimir Kharlampidi
- * The iDangero.us
- * http://www.idangero.us/
- * 
- * Licensed under MIT
- * 
- * Released on: January 10, 2016
- */
-  /* Auto Height */
-  /* a11y */
-  /* IE10 Windows Phone 8 Fixes */
-  /* Arrows */
-  /* Pagination Styles */
-  /* Common Styles */
-  /* Bullets */
-  /* Progress */
-  /* 3D Container */
-  /* Coverflow */
-  /* Cube + Flip */
-  /* Cube */
-  /* Fade */
-  /* Scrollbar */
-  /* Preloader */
-}
 .view.widget .fg .swiper-container,
 .overlay-window .overlay-view .swiper-container {
   margin: 0 auto;
@@ -1696,7 +1664,6 @@ ol:not([class]) > li:not([class]) {
 .view.widget .fg .swiper-slide,
 .overlay-window .overlay-view .swiper-slide {
   -webkit-flex-shrink: 0;
-  -ms-flex: 0 0 auto;
   flex-shrink: 0;
   width: 100%;
   height: 100%;
@@ -2043,13 +2010,6 @@ ol:not([class]) > li:not([class]) {
   background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));
   /* Firefox 16+, IE10, Opera 12.50+ */
 }
-.view.widget .fg .swiper-container-coverflow .swiper-wrapper,
-.overlay-window .overlay-view .swiper-container-coverflow .swiper-wrapper,
-.view.widget .fg .swiper-container-flip .swiper-wrapper,
-.overlay-window .overlay-view .swiper-container-flip .swiper-wrapper {
-  /* Windows 8 IE 10 fix */
-  -ms-perspective: 1200px;
-}
 .view.widget .fg .swiper-container-cube,
 .overlay-window .overlay-view .swiper-container-cube,
 .view.widget .fg .swiper-container-flip,
@@ -2176,7 +2136,6 @@ ol:not([class]) > li:not([class]) {
 .overlay-window .overlay-view .swiper-scrollbar {
   border-radius: 10px;
   position: relative;
-  -ms-touch-action: none;
   background: rgba(0, 0, 0, 0.1);
 }
 .view.widget .fg .swiper-container-horizontal > .swiper-scrollbar,
@@ -3046,14 +3005,6 @@ ol:not([class]) > li:not([class]) {
 .text-bg-svg {
   letter-spacing: normal !important;
   color: transparent !important;
-}
-h1.text-bg-svg,
-h2.text-bg-svg,
-h3.text-bg-svg,
-h4.text-bg-svg,
-h5.text-bg-svg,
-h6.text-bg-svg {
-  margint-top: 0;
 }
 .text-bg-svg .text-bg-animate {
   animation: text-bg-animate 30s ease-in-out infinite;
