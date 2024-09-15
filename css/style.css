@@ -318,7 +318,8 @@
 }
 .flinks{
 	border-top: 1px solid #ed672c;
-	margin-top: 10px;
+	padding-top: 10px;
+	font-size: 18px;
 }
 .fglobe h3 {
 	text-transform: inherit;
@@ -430,13 +431,14 @@
   width: 100px;
 }
 
+.block-icon {
+	border-radius: 4px;
+}
 
-
-
-
-
-
-
+.block-icon i {
+    font-size: 28px;
+    font-weight: 100;
+}
 
 .g-img label[for] {
  cursor: pointer;
