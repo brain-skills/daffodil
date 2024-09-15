@@ -1,6 +1,11 @@
+.logoblock{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
 .masclogo {
 	border: 2px solid rgba(237, 102, 45, 0.5);
-	padding: 10px 20px 15px 20px;
+	padding: 15px 20px;
 }
 .masclogo:after{
     content: '';
@@ -10,14 +15,14 @@
     top: 14px;
     left: 28.8%;
     right: 28.8%;
-    bottom: 22px;
+    bottom: 14px;
 }
 
 .masclogo:hover:after{
 	top: 6px;
 	left: 28.3%;
 	right: 28.3%;
-	bottom: 6%;
+	bottom: 6px;
 }
 @font-face {
     font-family: dearoptika;
@@ -170,30 +175,30 @@
 	margin-bottom: 0px;
 }
 .serv-a {
-	background-image: url(/uploads/1.png);
+	background-image: url(#);
 	background-color: #222 !important;
 }
 .serv-b {
-	background-image: url(/uploads/2.png);
+	background-image: url(#);
 	background-color: #333 !important;
 }
 .serv-c {
-	background-image: url(/uploads/3.png);
+	background-image: url(#);
 	background-color: #222 !important;
 }
 .serv-d {
-	background-image: url(/uploads/4.png);
+	background-image: url(#);
 	background-color: #333 !important;
 }
 .serv-e {
-	background-image: url(/uploads/5.png);
+	background-image: url(#);
 	background-color: #222 !important;
 }
 .serv-f {
-	background-image: url(https://placeimg.com/480/440/tech/3);
+	background-image: url(#);
 }
 .serv-g {
-	background-image: url(/uploads/6.png);
+	background-image: url(#);
 	background-color: #333 !important;
 }
 .serv-a, .serv-b, .serv-c, .serv-d, .serv-e, .serv-f, .serv-g {

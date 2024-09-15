@@ -4264,17 +4264,17 @@ input[type=submit],
   text-align: inherit;
 }
 .banner-box .banner-cell {
-  padding-top: 17px;
-  padding-bottom: 16px;
+  padding-top: 10px;
+  padding-bottom: 10px;
   letter-spacing: 1.2px;
   background-color: rgba(0, 0, 0, 0.7);
 }
 .banner-box .banner-cell .banner-title, .banner-box .banner-cell .banner-title a{
   color: #ed672d;
-  font-size: 30px;
+  font-size: 26px;
   font-weight: 400;
   line-height: 36px;
-  margin-top: 8px;
+  margin-top: 4px;
   text-transform: uppercase;
 }
 .banner-box .banner-cell .banner-title, .banner-box .banner-cell .banner-title a:hover{
@@ -4731,7 +4731,6 @@ input[type=submit],
 div.view.widget,
 footer {
   z-index: 100;
-  position:;
 }
 .footer-bottom {
   position: relative;
