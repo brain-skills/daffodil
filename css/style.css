@@ -22,7 +22,6 @@
 }
 .masclogo > .logoname { font-size: 122px; font-weight: 600; }
 .masclogo > .logoslogan { font-size: 70px; font-weight: 100; letter-spacing: 0.3em; padding-left: 0px; }
-.eyescript .visualimg { }
 @media (max-width: 768px) {
   .visualimg { position: relative; }
   .visualist { margin-top: 70%; position: relative; margin-right: 15px !important; margin-left: 15px !important; }
