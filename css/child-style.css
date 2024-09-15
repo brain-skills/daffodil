@@ -4221,7 +4221,7 @@ input[type=submit],
   background-color: rgba(0, 0, 0, 0.7);
 }
 .banner-box .banner-cell .banner-title, .banner-box .banner-cell .banner-title a{
-  color: #ed672d;
+  color: #a587ff;
   font-size: 26px;
   font-weight: 400;
   line-height: 36px;
@@ -7279,7 +7279,7 @@ ul.simple > li,
   background: rgba(237, 103, 45, 0.2);
 }
 .col-style-decorated ul > li a:hover {
-  color: #ed672d !important;
+  color: #a587ff !important;
 }
 .widget ul > li:last-child {
   border-bottom: none;
@@ -7551,7 +7551,7 @@ ul.no-mark ul:not([class]) {
 }
 .site-decoration-b .footer-bottom {
   padding-bottom: 47px;
-  border-top: 1px solid #ed682d;
+  border-top: 1px solid #a587ff;
 }
 .site-decoration-b .ext-nav {
   top: 40px;
@@ -7637,7 +7637,7 @@ input[type] {
 	vertical-align: baseline;
 	letter-spacing: 0px;
 	line-height: inherit;
-	border: 1px solid #ed672d;
+	border: 1px solid #a587ff;
 	padding: 5px 5px 4px 5px;
 }
 .bannertit {
@@ -7670,7 +7670,7 @@ input[type] {
 	padding-right: 7%;
 	margin-top: -5px;
 }
-.pricecolor b{color: #ed662d;}
+.pricecolor b{color: #a587ff;}
 
 @media (min-width: 1000px) and (max-width: 1400px) {
   .banner-box .banner-cell .banner-subtitle {
