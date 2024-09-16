@@ -4868,7 +4868,6 @@ a.svg-overlay.fixed {
   padding-bottom: 50px;
   margin: 0px 0 0 0;
   display: block;
-  text-align: center;
 }
 .pagination .page-numbers,
 .pagination .next a,
@@ -7079,7 +7078,6 @@ div[class*=' off-canvas-'].open {
 .post-image img,
 .post-image iframe,
 .post-image video {
-  padding-top: 15px;
   width: 100%;
   height: auto;
   border-bottom: 1px solid rgba(0, 0, 0, 0.2);
@@ -7130,7 +7128,7 @@ div[class*=' off-canvas-'] .nav-mobile {
 35. WordPress Elements / .widget, .search-form, ...
 ==================================================================*/
 .widget .section-nav-title {
-  font-size: 16px;
+  font-size: 14px;
 }
 .widget .tagcloud a {
   border: 1px solid;
