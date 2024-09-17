@@ -7705,10 +7705,10 @@
   color: #616161 !important;
 }
 .colors-v .widget:not(.x40-widget) * {
-  border-top-color: rgb(237, 102, 45) !important;
-  border-bottom-color: rgb(237, 102, 45) !important;
-  border-left-color: rgb(237, 102, 45) !important;
-  border-right-color: rgb(237, 102, 45) !important;
+  border-top-color: #a587ff !important;
+  border-bottom-color: #a587ff !important;
+  border-left-color: #a587ff !important;
+  border-right-color: #a587ff !important;
   color: #333;
 }
 .colors-v .widget .section-nav-title a {
@@ -7720,7 +7720,7 @@
   padding-left: 2px;
 }
 .colors-v .widget:not(.x40-widget) input[type] {
-  border-color: rgb(237, 102, 45) !important;
+  border-color: #a587ff !important;
   color: #222 !important;
 }
 .colors-v .widget:not(.x40-widget) li:not(:last-child) {

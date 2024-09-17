@@ -4865,8 +4865,6 @@ a.svg-overlay.fixed {
   }
 }
 .pagination {
-  padding-bottom: 50px;
-  margin: 0px 0 0 0;
   display: block;
 }
 .pagination .page-numbers,
@@ -7655,12 +7653,12 @@ input[type] {
   cursor: pointer;
 }
 .bgradik {
-	background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, rgba(237,103,45,1) 20%, rgba(255, 255, 255, 0) 100%);
+	background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, #a587ff 20%, rgba(255, 255, 255, 0) 100%);
 	height: 1px;
 	width: 100%;
 }
 .bgnavi {
-	background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, rgba(237,103,45,1) 99%, rgba(255, 255, 255, 0) 100%);
+	background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, #a587ff 99%, rgba(255, 255, 255, 0) 100%);
 	height: 1px;
 	width: 100%;
 }
