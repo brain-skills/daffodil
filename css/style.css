@@ -8,7 +8,7 @@
   .masclogo:not(svg) { font-size: 40px; }
   .masclogo > .logoname { font-size: 90px !important; }
   .masclogo > .logoslogan { font-size: 28px !important; letter-spacing: 1em !important; padding-left: 20px !important; }
-  .masclogo::after { content: ""; position: absolute; border: 1px solid rgba(255, 255, 255, 0.5); transition: 500ms; inset: 15px 16.5% 21px; }
+  .masclogo::after { content: ""; position: absolute; border: 1px solid rgba(255, 255, 255, 0.5); transition: 500ms; inset: 10px 6% 10px; }
   .masclogo:hover::after { inset: 10px 15.5% 17px 15%; }
 }
 @media (max-width: 400px) {
